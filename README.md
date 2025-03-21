@@ -35,7 +35,7 @@
 
 ### 1️⃣ Clone the Repository
 ```bash
-https://github.com/NYSHREYAS/LittleLemon-By-ShreyasNepale.git
+https://github.com/shivampatole9373/Django-Web-Framework-
 ```
 
 ### 2️⃣ Create and Activate Virtual Environment
