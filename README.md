@@ -1,29 +1,6 @@
 # LittleLemon-By-ShivamPatole
 
 
-![Logo](https://github.com/NYSHREYAS/LittleLemon-By-ShreyasNepale/blob/73a51b00bc4058fa79e63acbf3a2f0b74696fe36/logo.png)
-
-
-
-Welcome to the **Little Lemon Restaurant** project! A Django-powered web application serving up digital excellence for this neighborhood bistro
-
-
-
-![Little Lemon Preview](https://github.com/NYSHREYAS/LittleLemon-By-ShreyasNepale/blob/a3d04c30b14759ef422b02c177c559ea74a204ed/Screenshot%202025-03-09%20175433.png)
-
-
-
-The About Us page provides insight into Little Lemon's history, mission, and values. It tells the story of the founders and their dedication to providing top-notch dining experiences.
-
-![About Us](https://github.com/NYSHREYAS/LittleLemon-By-ShreyasNepale/blob/988f218a5cfae67855dbe01729b6d24cdf8a17d4/Screenshot%202025-03-09%20174043.png)
-
-
-
-The menu page dynamically displays all available dishes in the restaurant. Customers can browse different categories of food and view detailed descriptions of each item.
-
-![Menu Page](https://github.com/NYSHREYAS/LittleLemon-By-ShreyasNepale/blob/2fda58329df3d5e53e860f826dcca2bbb4c8f350/Screenshot%202025-03-09%20173814.png)
-
-
 
 
 ## 🌟 Features
